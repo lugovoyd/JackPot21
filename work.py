@@ -3,7 +3,7 @@ import random
 random.shuffle(koloda)
 
 
-print('Play games?')
+print('Play games now?')
 count = 0
 
 while True:
