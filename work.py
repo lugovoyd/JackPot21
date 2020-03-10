@@ -23,4 +23,4 @@ while True:
         print('You have  %d and you end game.' %count)
         break
 
-print('By!')
+print('Goodby!')
