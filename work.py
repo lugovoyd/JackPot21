@@ -11,7 +11,7 @@ while True:
         current = koloda.pop()
         print('You have %d' %current)
         count += current
-        if count > 21:
+        if count > 51:
             print('Sory, end games, you count %d' %count)
             break
         elif count == 21:
