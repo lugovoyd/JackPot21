@@ -12,7 +12,7 @@ while True:
         print('You have %d' %current)
         count += current
         if count > 21:
-            print('Sory, end games, you count %d' %count)
+            print('Sory, end game, you count %d' %count)
             break
         elif count == 21:
             print('You won 21!')
